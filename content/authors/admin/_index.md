@@ -41,5 +41,5 @@ superuser: true
 title: Mengshun Hu (胡梦顺)
 ---
 
-I am a PhD student at Wuhan University with Zheng Wang starting from Sep. 2021. My research interest are video frame interpolation, video super-resolution and space-time video super-resolution. I am now going to the University of Tokyo for a one-year exchange through CSC with Yinqiang Zheng starting from Jan.2023
+I am a PhD student at Wuhan University with [Zheng Wang](./https://wangzwhu.github.io/home/index.html/) starting from Sep. 2021. My research interest are video frame interpolation, video super-resolution and space-time video super-resolution. I am now going to the University of Tokyo for a one-year exchange through CSC with [Yinqiang Zheng](./https://scholar.google.com/citations?hl=zh-CN&user=JD-5DKcAAAAJ/) starting from Jan.2023
 {style="text-align: justify;"}
