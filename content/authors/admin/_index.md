@@ -1,29 +1,18 @@
 ---
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 email: ""
-first_name: Alice
+first_name: Mengshun
 highlight_name: true
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Wu
+last_name: Hu
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Wuhan University
+  url: 
+role: Second year of PhD
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,24 +22,24 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: 
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: 
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Mengshun Hu (胡梦顺)
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student at Wuhan University with Zheng Wang starting from Sep. 2021. My research interest are video frame interpolation, video super-resolution and space-time video super-resolution. I am now going to the University of Tokyo for a one-year exchange through CSC with Yinqiang Zheng starting from Jan.2023
 {style="text-align: justify;"}
