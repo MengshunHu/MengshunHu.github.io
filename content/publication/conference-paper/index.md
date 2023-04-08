@@ -1,6 +1,6 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
+abstract: Existing space-time video super-resolution (ST-VSR) methods fail to achieve high-quality reconstruction
+  since they fail to fully explore the spatial-temporal correlations, long-range components in particular. 
   ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
   sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
   egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id

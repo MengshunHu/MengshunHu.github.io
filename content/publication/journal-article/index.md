@@ -1,52 +1,45 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: Spatial-Temporal Video Super-Resolution (ST-VSR) aims to generate super-resolved videos with higher resolution
+  (HR) and higher frame rate (HFR). Quite intuitively, pioneering two-stage based methods complete ST-VSR by
+  directly combining two sub-tasks, Spatial Video SuperResolution (S-VSR) and Temporal Video Super-Resolution
+  (T-VSR) but ignore the reciprocal relations among them. Specifically, 1) T-VSR to S-VSR, temporal correlations help
+  accurate spatial detail representation with more clues; 2) S-VSR to T-VSR, abundant spatial information contributes
+  to the refinement of temporal prediction. To this end, we propose a one-stage based Cycle-projected Mutual learning network (CycMu-Net) for       ST-VSR, which makes full use of spatial-temporal correlations via the mutual learning between S-VSR and T-VSR. Specifically, we propose
+  to exploit the mutual information among them via iterative up-and-down projections, where the spatial and temporal features are 
+  fully fused and distilled, helping the high-quality video reconstruction. Besides extensive experiments on benchmark datasets, 
+  we also compare our proposed CycMu-Net with S-VSR and T-VSR tasks, demonstrating that our method significantly outperforms 
+  state-of-theart methods.
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+date: "2022-02-07T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ""
   focal_point: ""
   preview_only: false
-projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+links:
+- name: Custom Link
+  url: 
+projects:
+- internal-project
+publication: ""
 publication_short: ""
 publication_types:
-- "2"
+- "3"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example journal article
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
+title: Spatial-Temporal Space Hand-in-Hand Spatial-Temporal Video Super-Resolution via Cycle-Projected Mutual Learning (CVPR 2022)
+url_code: https://github.com/hhhhhumengshun/CycMuNet
+url_dataset: '#'
+url_pdf: 'https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Spatial-Temporal_Space_Hand-in-Hand_Spatial-Temporal_Video_Super-Resolution_via_Cycle-Projected_Mutual_Learning_CVPR_2022_paper.pdf'
+url_poster: '#'
 url_project: ""
 url_slides: ""
-url_source: ""
-url_video: ""
+url_source: '#'
+url_video: '#'
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
